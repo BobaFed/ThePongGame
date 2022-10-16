@@ -1,2 +1,4 @@
 # ThePongGame
-I made pong game
+I made the Ponggame
+
+used turtle graphics module and object oriented programming🦾
